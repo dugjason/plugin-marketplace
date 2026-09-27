@@ -1,0 +1,12 @@
+{
+  "name": "craftcx",
+  "version": "1.0.0",
+  "description": "Read CraftCX support conversations, QA findings, customer signals, and support performance through the hosted MCP server.",
+  "author": {
+    "name": "CraftCX",
+    "url": "https://craftcx.com"
+  },
+  "homepage": "https://craftcx.com/mcp",
+  "license": "Proprietary",
+  "keywords": ["craftcx", "craftcx mcp", "craftcx support intelligence"]
+}
